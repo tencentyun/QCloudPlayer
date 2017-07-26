@@ -1,0 +1,6 @@
+framework module QCloudVideoPlayer {
+  umbrella header "QCloudVideoPlayer.h"
+
+  export *
+  module * { export * }
+}
